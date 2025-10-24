@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Ahmed</h1>
 <h3 align="center">A passionate software engineer student at Facualty of Engineering Ain Shams Unversity</h3>
 
-- 🌱 I’m currently learning **Data Analysis Track by GDG on Campus:CIC**
-
 - 📫 How to reach me **adamelarabyofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
